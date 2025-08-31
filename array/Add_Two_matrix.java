@@ -1,5 +1,4 @@
 package array;
-//........SK
 //push by sagar
 public class Add_Two_matrix 
 {
