@@ -1,7 +1,7 @@
 package General;
 
 public class Factorial_of_num_using_recurssion 
-//added by BR_2
+//added by BR_2..
 {
 	static int fact=1;
 	public static void main(String[] args)
